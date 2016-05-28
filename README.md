@@ -58,16 +58,15 @@ The data is available on [Streeteasy](http://streeteasy.com/api/info).
 Technical spec
 --------------
 
-The architecture will be split between a back-end and a web front-end, for instance providing a JSON in/out RESTful API. Feel free to use any other technologies provided that the general client/service architecture is respected.
+The architecture will be split between a back-end and a web front-end, for instance providing a JSON in/out RESTful API. We will reccomend a few technologies but feel free to use any other technologies as well provided that the general client/service architecture is respected.
 
 
 ### Back-end
-We currently use Node.js for our backend. That being said you’re welcome to use other backend technologies you might be more comfortable with. Feel free to mention in your README how much experience you have with the technical stack you choose, we will take note of that when reviewing your challenge.
+We reccomend using Node.js for the backend. That being said you’re welcome to use other backend technologies you might be more comfortable with. Feel free to mention in your README how much experience you have with the technical stack you choose, we will take note of that when reviewing your challenge.
 You are also free to use any web framework. If you choose to use a framework that results in boilerplate code in the repository, please detail in your README which code was written by you (as opposed to generated code).
 
 
 ### Front-end
-##### React
 We recommend using [React](https://facebook.github.io/react/) as a framework on the front-end. 
 
 **If you're not comfortable with React, that's okay.** While we'd prefer to see the front-end implemented with React, we know the learning curve can be steep especially for someone that hasn't used it before. 
